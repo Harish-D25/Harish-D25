@@ -1,3 +1,6 @@
+<img src="https://github.com/user-attachments/assets/9c638d77-7113-422e-b765-c34468c0f8cb" alt="Profile Banner" width="100%">
+
+
 # Hi, I'm Harish! 👋
 
 I'm a **BSc Computer Science** student, graduating next month. I'm passionate about software development, AI, and web technologies. My primary programming language is **Python**, and I have experience in **HTML, CSS, and JavaScript**.
