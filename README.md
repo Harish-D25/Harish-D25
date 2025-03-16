@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Harish! 👋
 
-<!--
-**Harish-D25/Harish-D25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **BSc Computer Science** student, graduating next month. I'm passionate about software development, AI, and web technologies. My primary programming language is **Python**, and I have experience in **HTML, CSS, and JavaScript**.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔥 Built **Lyra**, an AI voice assistant similar to JARVIS.
+- 🌍 Developing a **climate weather forecast** web application.
+- 💾 Setting up a **DIY NAS** for media streaming and backups.
+- 📜 Writing detailed **project documentation** for a **blood pressure monitoring system**.
+
+## 🛠️ Tech Stack
+
+- **Languages:** Python, HTML, CSS, JavaScript
+- **Databases:** SQL, MongoDB
+- **Tools & Frameworks:** Flask, Eel, Git, Lyra
+- **Other Interests:** AI, cloud computing, automation
+
+## 📌 Projects
+
+- **Lyra - AI Voice Assistant** 🤖\
+  A smart voice assistant that understands and executes voice commands with multi-language support.
+
+  - [Lyra Repository](https://github.com/Harish-D25/Lyra) Currently in Private
+
+- **Weather Forecast Web App** 🌤️\
+  A web-based climate forecasting tool providing real-time and historical weather data.
+
+  - [Project Repository](https://github.com/your-username/weather-forecast)
+
+- **DIY NAS Setup** 🖥️\
+  Building a network-attached storage system for remote file access and media streaming.
+
+  - [Setup Guide](https://github.com/your-username/diy-nas)
+ 
+- **Crypto Dashboard**
+  📊A cryptocurrency tracking dashboard built using React and Tailwind CSS for real-time price updates and market insights.
+
+  - [Project Repository](https://github.com/Harish-D25/Crypto_Dashbord)
+
+- **Blood Pressure Monitoring System** 💓\
+  A software project for tracking and analyzing blood pressure data, with detailed project documentation.
+
+  - [Project Repository](https://github.com/Harish-D25/Blood-Pressure-Monitoring-System)
+
+## 📫 Connect with Me
+
+- 🔗 [GitHub](https://github.com/Harish-D25)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/harish-d-046311296/)
+
+Let's build something awesome together! 🚀
