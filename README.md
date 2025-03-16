@@ -48,7 +48,7 @@ I'm a **BSc Computer Science** student, graduating next month. I'm passionate ab
 
 ## 📫 Connect with Me
 
-- 🔗 [GitHub](https://github.com/Harish-D25)
+- 🔗 [Instagram](https://www.instagram.com/harish_ps_official?igsh=MW9ha3h4dGUxODI3Nw==)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/harish-d-046311296/)
 
 Let's build something awesome together! 🚀
